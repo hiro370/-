@@ -1,0 +1,286 @@
+body{
+	margin: 0;
+	overflow: hidden;
+}
+
+#ball{
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	height: 30px;
+	width: 30px;
+}
+
+
+#frame2{
+	position: absolute;
+	left: 125px;
+	top: 50px;
+	height: 590px;
+	width: 770px;
+}
+
+
+#frame {
+	position: absolute;
+	left: 150px;
+	top: 75px;
+width:720px;
+height:540px;
+}
+
+#goal{
+	position: absolute;
+	top: 345px;
+	left: 630px;
+	height: 50px;
+	width: 50px;
+}
+
+#background{
+	position: absolute;
+	left: 150px;
+	top: 75px;
+width:720px;
+height:540px;
+}
+
+#stageClear{
+	position: absolute;
+	left: 170px;
+	top: 100px;
+width:680px;
+height:490px;
+}
+
+#gameOver{
+	position: absolute;
+	left: 170px;
+	top: 100px;
+width:680px;
+height:490px;
+}
+
+#title{
+	position: absolute;
+	left: 150px;
+	top: 75px;
+width:720px;
+height:540px;
+}
+
+#startButton{
+	position: absolute;
+	left: 385px;
+	top: 380px;
+width:250px;
+height:75px;
+}
+
+#asobiButton{
+	position: absolute;
+	left: 385px;
+	top: 480px;
+width:250px;
+height:75px;
+}
+
+#asobikata{
+	position: absolute;
+	left: 150px;
+	top: 75px;
+width:724px;
+height:540px;
+}
+
+#longDeath{
+	position: absolute;
+	top: 315px;
+	left: 500px;
+	height: 300px;
+	width: 50px;
+}
+
+#longDeath2{
+	position: absolute;
+	top: 715px;
+	left: 500px;
+	height: 300px;
+	width: 50px;
+}
+
+#longDeath3{
+	position: absolute;
+	top: -85px;
+	left: 500px;
+	height: 300px;
+	width: 50px;
+}
+
+#white{
+	position: absolute;
+	top: 50px;
+	left: 500px;
+	height: 25px;
+	width: 50px;
+}
+
+#white2{
+	position: absolute;
+	top: -100px;
+	left: 500px;
+	height: 150px;
+	width: 50px;
+}
+
+#white3{
+	position: absolute;
+	top: 615px;
+	left: 500px;
+	height: 25px;
+	width: 50px;
+}
+
+#white4{
+	position: absolute;
+	top: 635px;
+	left: 500px;
+	height: 300px;
+	width: 50px;
+}
+
+#yokoDeath{
+	position: absolute;
+	top: 315px;
+	left: 305px;
+	height: 50px;
+	width: 150px;
+}
+
+#death{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death2{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death3{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death4{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death5{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death6{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death7{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death8{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death9{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#death10{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#wall{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#wall2{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#wall3{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#wall4{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#wall5{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	height: 50px;
+	width: 50px;
+}
+
+#thanks{
+	position: absolute;
+	left: 150px;
+	top: 75px;
+width:719px;
+height:540px;
+}
